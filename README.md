@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Faris Rizqilail | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 <img align="left" alt="farisqlail | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />
 
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="html" width="22px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
