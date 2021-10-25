@@ -11,17 +11,17 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Faris Rizqilail | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="farisqlail | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
+[<img align="left" alt="Faris Rizqilail | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]
+[<img align="left" alt="farisqlail | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />]
 
 ### Languages and Tools:
 
-[<img align="left" alt="html" width="22px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />][html]
-[<img align="left" alt="css" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />][css]
-[<img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />][javascript]
+[<img align="left" alt="html" width="22px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />]
+[<img align="left" alt="css" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />]
+[<img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />]
 [<img align="left" alt="java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />][java]
-[<img align="left" alt="laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />][laravel]
-[<img align="left" alt="lumen" width="22px" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" />][lumen]
-[<img align="left" alt="git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
+[<img align="left" alt="laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />]
+[<img align="left" alt="lumen" width="22px" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" />]
+[<img align="left" alt="git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />]
 
 
