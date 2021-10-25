@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="100"/>
+<img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="70"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="70"/>
 
