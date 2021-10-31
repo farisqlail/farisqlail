@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 <img align="left" alt="laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 <img align="left" alt="lumen" width="22px" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" />
 <img align="left" alt="git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-
-
+<img align="left" alt="bootstrap" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+<img align="left" alt="figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="androidstudio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+<img align="left" alt="postman" width="22px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
+<img align="left" alt="mysql" width="22px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
