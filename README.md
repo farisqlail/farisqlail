@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" alt="Faris Rizqilail | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-<img align="left" alt="farisqlail | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />
+<a href="https://www.linkedin.com/in/faris-rizqilail-630329194/"><img align="left" alt="Faris Rizqilail | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a href="https://www.instagram.com/farisqlail/"><img align="left" alt="farisqlail | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
 
 <br/>
 
