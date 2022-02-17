@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img align="left" alt="java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
 <img align="left" alt="laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 <img align="left" alt="lumen" width="22px" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" />
+<img align="left" alt="codeigniter" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fcodeigniter-logo%2F&psig=AOvVaw3y6o-omss2Bo3cdY-12eeY&ust=1645181205031000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiz17jHhvYCFQAAAAAdAAAAABAD" />
 <img align="left" alt="git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="bootstrap" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 <img align="left" alt="figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
