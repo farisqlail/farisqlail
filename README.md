@@ -1,5 +1,7 @@
 ### Hi there, I'm Faris Rizqilail 👋
 
+<img src="https://raw.githubusercontent.com/farisqlail/farisqlail/master/Hallo,.png">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Dynamic University Surabaya Indonesia
