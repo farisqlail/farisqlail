@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/farisqlail/farisqlail/master/Hallo,.png">
 
+[![An image of @farisqlail's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farisqlail)](https://holopin.io/@farisqlail)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Dinamika University Surabaya Indonesia
