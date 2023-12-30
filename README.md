@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on Dinamika University Surabaya Indonesia
+- 🔭 I’m currently work at Interactive Technologies Corp
 - 🌱 I’m currently learning about web development, mobile development, and SDLC
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I love to draw and play guitar / drums
 
 ### Connect with me:
