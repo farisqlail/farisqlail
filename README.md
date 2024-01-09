@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <img align="left" alt="postman" width="22px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
 <img align="left" alt="mysql" width="22px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="vuejs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="nuxtjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/1200px-Nuxt_logo_%282021%29.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/1200px-Nuxt_logo_%282021%29.svg.png" />
+<img align="left" alt="nuxtjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/1200px-Nuxt_logo_%282021%29.svg.png" />
