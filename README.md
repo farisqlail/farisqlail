@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently work at Interactive Technologies Corp
 - 🌱 I’m currently learning about web development, mobile development, and SDLC
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  I love to draw and play guitar / drums
+- ⚡ Fun fact:  I love to draw and play guitar / drums LOL
 
 ### Connect with me:
 
@@ -35,3 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="mysql" width="22px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="vuejs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="nuxtjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" />
+<img align="left" alt="nextjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" />
+<img align="left" alt="nestjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" />
+<img align="left" alt="react" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<img align="left" alt="supabase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
