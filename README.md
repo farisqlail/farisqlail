@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="mysql" width="22px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="vuejs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="nuxtjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" />
-<img align="left" alt="nextjs" width="22px" src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png](https://cdn.worldvectorlogo.com/logos/next-js.svg)](https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png)" />
+<img align="left" alt="nextjs" width="22px" src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png" />
 <img align="left" alt="nestjs" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" />
 <img align="left" alt="react" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="supabase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
